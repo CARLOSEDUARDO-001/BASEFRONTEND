@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'SectorFront';
+  title = 'Seccion Principal';
+
+  Subtitulo = 'Ramas De Estudio';
 }
